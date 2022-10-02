@@ -1,0 +1,35 @@
+
+
+
+
+
+@media(max-width:35em){
+    body{
+        font-size: 10px=1rem;
+    }
+ .logo_nav{
+     font-size: 10px;
+     font-weight: 200;
+     background-color:aqua;
+     color: brown;
+
+ }
+.ul_list_nav{
+  gap: 0.01rem;
+
+}
+.link_list_nav{
+    font-size: 0.6rem;
+}
+    .primary_header_main{
+  font-size: 2.4rem;
+         
+    }
+
+
+
+
+.grid4_main_header{
+    grid-template-columns: repeat(2,1fr);
+}
+}
